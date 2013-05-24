@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<data>
+	 <application name="OpenVG demos">
+                        <command>gplay crab.avi &amp;</command>
+                        <route>/openVG</route>
+         </application>
+
+</data>
