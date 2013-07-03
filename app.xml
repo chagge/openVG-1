@@ -3,8 +3,9 @@
 <data>
 	<module name="OpenVG">
 		 <application name="OpenVG demos">
-		                <command>gplay crab.avi &amp;</command>
-		                <route>/openVG</route>
+				<description>This OpengVG demo shows the tiger.</description>
+		                <command>demos/openVG/rodvg &amp;</command>
+		                <route>openVG</route>
 		 </application>
 	</module>
 </data>
